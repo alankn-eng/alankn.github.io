@@ -132,7 +132,7 @@ body {
 }
 
 .hero-content h1 {
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: bold;
     margin-bottom: 1rem;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
@@ -140,7 +140,7 @@ body {
 }
 
 .hero-content h2 {
-    font-size: 4rem;
+    font-size: 5rem;
     font-weight: bold;
     margin-bottom: 1rem;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
